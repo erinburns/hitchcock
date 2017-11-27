@@ -1,0 +1,2 @@
+[19-Mar-2017 20:09:59 America/Denver] PHP Warning:  include(includes/header.inc.php): failed to open stream: No such file or directory in /home1/extraque/public_html/3rin6urns/coursework/psycho/trailer.php on line 16
+[19-Mar-2017 20:09:59 America/Denver] PHP Warning:  include(): Failed opening 'includes/header.inc.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/extraque/public_html/3rin6urns/coursework/psycho/trailer.php on line 16
